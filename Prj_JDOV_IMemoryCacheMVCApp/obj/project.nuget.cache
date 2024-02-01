@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iglDQismUtxvASVZQO8D+4EZ90shS6TGyrpWbCuzaaib1j+cYpHWY8NRuiuMVnzweh1mg+gIdLjGs7O/xOFRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Katherin\\source\\repos\\JDOV\\Sln_Ocampo_Juan_Laboratorio5\\Prj_JDOV_IMemoryCacheMVCApp\\Prj_JDOV_IMemoryCacheMVCApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katherin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Katherin\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Katherin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Katherin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Katherin\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Katherin\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Katherin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

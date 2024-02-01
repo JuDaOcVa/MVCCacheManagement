@@ -1,0 +1,15 @@
+﻿@model DateTime?
+
+<div>
+    <h2> Actions: </h2>
+    <ul>
+        <li><a asp-controller="Home" asp-action="CacheGet"> Get </a></li>
+        <li><a asp-controller="Home" asp-action="CacheSet"> Set </a></li>
+        <li><a asp-controller="Home" asp-action="CacheRemove"> Remove </a></li>
+    </ul>
+</div>
+
+<h3> Current Time: @DateTime.Now.TimeOfDay.ToString()</h3>
+<h3> Cached Time: @(Model == null ? "No cached Entry Found" : Model.Value.TimeOfDay.ToString())</h3>
+
+
